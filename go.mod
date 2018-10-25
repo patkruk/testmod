@@ -1,1 +1,1 @@
-module github.com/patkruk/testmod
+module github.com/patkruk/testmod/v2
